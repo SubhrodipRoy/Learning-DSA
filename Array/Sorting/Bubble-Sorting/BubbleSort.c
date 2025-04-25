@@ -43,4 +43,4 @@ int main() {
 
     return 0;
 }
-// Bubble Sort algorithm implemented inside in C
+// Bubble Sort algorithm implemented in C

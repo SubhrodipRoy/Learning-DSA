@@ -42,4 +42,4 @@ public class BubbleSort {
         }
     }
 }
-// Bubble Sort algorithm implemented inside in Java
+// Bubble Sort algorithm implemented in Java
