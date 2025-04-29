@@ -21,3 +21,5 @@ for i in range(1, size):
 
 # Print sorted array
 print("Sorted array:", arr)
+
+#This program implements the Insertion Sort algorithm in Python.
