@@ -51,4 +51,4 @@ int main() {
     return 0;
 }
 
-// This code implements the merge sort algorithm using in C.
+// This code implements the merge sort algorithm in C.
